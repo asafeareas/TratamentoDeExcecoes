@@ -1,0 +1,14 @@
+D:\Códigos\Tratamento de exceções\Tratamento\bin\Debug\net8.0\Tratamento.exe
+D:\Códigos\Tratamento de exceções\Tratamento\bin\Debug\net8.0\Tratamento.deps.json
+D:\Códigos\Tratamento de exceções\Tratamento\bin\Debug\net8.0\Tratamento.runtimeconfig.json
+D:\Códigos\Tratamento de exceções\Tratamento\bin\Debug\net8.0\Tratamento.dll
+D:\Códigos\Tratamento de exceções\Tratamento\bin\Debug\net8.0\Tratamento.pdb
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.AssemblyInfoInputs.cache
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.AssemblyInfo.cs
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.csproj.CoreCompileInputs.cache
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.dll
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\refint\Tratamento.dll
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.pdb
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\Tratamento.genruntimeconfig.cache
+D:\Códigos\Tratamento de exceções\Tratamento\obj\Debug\net8.0\ref\Tratamento.dll
